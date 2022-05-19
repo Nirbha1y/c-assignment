@@ -1,4 +1,4 @@
-void palindrome(int num){
+void main(int num){
     int rem , reverse=0,original;
     printf("Enter a number : ");
     scanf("%d",&num);
