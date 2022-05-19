@@ -1,4 +1,4 @@
-void armstrong(int num){
+void main(int num){
     int sum=0,n=0;
     int original , rem;
     printf("Enter a number : ");
