@@ -1,3 +1,4 @@
+#include<stdio.h>
 void main(int num){
     int rem , reverse=0,original;
     printf("Enter a number : ");
