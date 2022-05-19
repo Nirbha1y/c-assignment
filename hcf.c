@@ -1,3 +1,5 @@
+#include<stdio.h>
+
 void main(int num1,int num2){
     int hcf,i;
     printf("Enter two numbers : ");
